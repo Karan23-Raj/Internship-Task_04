@@ -1,0 +1,64 @@
+/* Body */
+body {
+    background-color: #748caa;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Profile Card */
+.profile-card {
+    background-color: rgb(190, 218, 228);
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+/* Profile Image */
+.profile-img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+
+/* Headings */
+h1 {
+    color: rgb(16, 16, 20);
+}
+
+h2 {
+    color: rgb(49, 69, 59);
+}
+
+/* Paragraph */
+p {
+    font-size: 16px;
+    color: #3e3f4f;
+}
+
+/* Skills */
+.skills span {
+    background-color: rgb(156, 128, 158);
+    padding: 8px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+/* Button */
+button {
+    background-color: rgb(75, 75, 156);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Social Links */
+.social a {
+    color: rgb(72, 72, 147);
+    margin: 10px;
+    text-decoration: none;
+}
